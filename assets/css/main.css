@@ -26438,3 +26438,16 @@ START: Footer CSS
 /* !END: RTL CSS */
 
 /*# sourceMappingURL=main.css.map */
+
+/* SoftTechStudio text wordmark (replaces image logo) */
+.brand-wordmark{
+  font-family: inherit;
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: -0.5px;
+  line-height: 1;
+  display: inline-block;
+  white-space: nowrap;
+}
+.footer-logo .brand-wordmark{ font-size: 24px; }
+.side-menu-logo .brand-wordmark{ font-size: 22px; }
